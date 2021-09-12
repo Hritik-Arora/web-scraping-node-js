@@ -1,0 +1,24 @@
+{
+  "name": "web-scraping-backend",
+  "version": "1.0.0",
+  "description": "A web scraper in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-scraping",
+    "node",
+    "backend"
+  ],
+  "author": "hritik.arora",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
